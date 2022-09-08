@@ -22,3 +22,7 @@ REFERENCES.
    
 
 (5) <a href="https://www.youtube.com/watch?v=SMWeJqMddKE&t=2s&ab_channel=Auxilium.%C7%9Dx%C7%9D></a>
+
+(6) North West University(2022). Project 2 – ASP.NET Core Azure 
+guidance documentation, pp.1-12.
+
