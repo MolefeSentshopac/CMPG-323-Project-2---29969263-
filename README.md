@@ -11,7 +11,7 @@ REFERENCES.
 (1) North West University(2022). Project 2 – ASP.NET Core 
    guidance documentation, pp.1-9.
    
-(2) North West University(2022). Project 2 - Project 2 – ASP.NET Core security 
+(2) North West University(2022). Project 2 – ASP.NET Core security 
    guidance documentation, pp.1-12.
    
 (3) <a href="https://www.youtube.com/watch?v=oTmrUmwz4uQ&ab_channel=Auxilium.%C7%9Dx%C7%9D"></a>
