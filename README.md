@@ -10,9 +10,14 @@ This project is the creation of an API that will be used by users who interact w
 REFERENCES.
 (1) North West University(2022). Project 2 – ASP.NET Core 
    guidance documentation, pp.1-9.
+   
 (2) North West University(2022). Project 2 - Project 2 – ASP.NET Core security 
    guidance documentation, pp.1-12.
+   
 (3) <a href="https://www.youtube.com/watch?v=oTmrUmwz4uQ&ab_channel=Auxilium.%C7%9Dx%C7%9D"></a>
+
+
 (4) <a href="https://www.youtube.com/watch?v=syKhpTOCDYI&t=8s&ab_channel=Auxilium.%C7%9Dx%C7%9D></a>
+   
 
 (5) <a href="https://www.youtube.com/watch?v=SMWeJqMddKE&t=2s&ab_channel=Auxilium.%C7%9Dx%C7%9D></a>
